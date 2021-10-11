@@ -1,3 +1,7 @@
 # animation-java
-Learning Animation using Java GUI\n
+Learning Animation using Java GUI
+
+
+
+
 Modified at 15 February 2020
